@@ -16,33 +16,6 @@ We build products that help businesses thrive in the digital and social commerce
 - Real-time delivery tracking and management through Uber Direct API and other delivery services.
 - AI-powered customer service automation for personalized and efficient communication.
 
----
-
-## **Our Projects**
-
-### **1. Shopy (Main Product)**
-**Shopy** is our flagship social e-commerce platform designed to help small businesses and entrepreneurs build online stores directly from their social media accounts (e.g., WhatsApp, Instagram, and TikTok). Shopy integrates payment and delivery solutions, providing a seamless experience for both sellers and buyers.
-
-#### Key Features:
-- **Automated Store Setup**: Extract product data from WhatsApp Business and social media platforms to create a mini online shop.
-- **CRM System**: Manage leads, orders, and customer interactions from multiple platforms (WhatsApp, Facebook, Instagram) in one place.
-- **Payment Integrations**: Accept payments via Airtel Money, MTN Mobile Money, and other mobile payment gateways.
-- **AI Chatbot**: Automated customer support using humanized responses to common queries.
-- **Real-time Delivery Tracking**: Integrated with Uber Direct API for easy delivery management and tracking.
-
-### **2. Shopy CRM**
-An advanced CRM tool integrated into Shopy, enabling businesses to track customer interactions, manage leads, and automate communications across all major social platforms.
-
-#### Key Features:
-- **Multi-platform Lead Management**: Centralize customer data from WhatsApp, Facebook Messenger, Instagram DMs, and TikTok comments.
-- **Smart Replies**: Use AI to create personalized responses and help businesses respond quickly to customer inquiries.
-- **Sales Pipeline**: Visualize customer journeys, follow up on leads, and close more sales with ease.
-
----
-
-## **Technology Stack**
-
-Our products are built with cutting-edge technologies to ensure performance, scalability, and security.
 
 ### **Frontend**
 - **React** (Web App)
@@ -93,7 +66,3 @@ We’re always happy to collaborate and engage with developers, businesses, and 
 - **Twitter**: [@ShopyInc](https://twitter.com/ShopyInc)
 
 ---
-
-## **License**
-
-All the repositories hosted under **Shopy Inc.** are licensed under the MIT License. Please check individual project repositories for more details.
