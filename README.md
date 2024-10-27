@@ -89,4 +89,4 @@ We believe in the power of community and welcome contributors from around the wo
 
 We’re always happy to collaborate and engage with developers, businesses, and users alike. If you have any questions or need support, you can reach us via:
 
-- **Email**: [support@shopy.com](mailto:shopydesgn@gmail.com)
+- **Email**: [shopydesgn@gmail.com](mailto:shopydesgn@gmail.com)
